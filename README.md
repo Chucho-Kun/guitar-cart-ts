@@ -54,3 +54,4 @@ export default tseslint.config({
 ```
 ### VERSION MODIFICADA DESDE LA CASA
 Con autorización de la casa
+Conexion de Github y Visual Studio Code
