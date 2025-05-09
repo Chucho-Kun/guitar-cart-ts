@@ -52,3 +52,5 @@ export default tseslint.config({
   },
 })
 ```
+### VERSION MODIFICADA DESDE LA CASA
+Con autorización de la casa
