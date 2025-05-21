@@ -1,4 +1,7 @@
 # React + Vite + TypeScript
+
+### integracion de useReducer
+
 ### Modo de uso
 ```
 cd gamero-cart
